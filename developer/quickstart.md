@@ -1,4 +1,4 @@
-# GUI Quickstart
+# GUI Quickstart - Updated
 
 _We assume that you already have the code downloaded with `repo`_
 
